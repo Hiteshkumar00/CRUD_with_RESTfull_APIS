@@ -1,0 +1,21 @@
+h1{
+  color: #b92b27;
+  background-color: rgb(214, 188, 188);
+}
+
+.post{
+  background-color: rgb(238, 125, 125);
+}
+
+.user{
+  font-style: italic;
+}
+
+.content{
+  color: rgb(4, 0, 228);
+}
+
+button{
+  background-color: rgb(24, 206, 0);
+  color: white;
+}
